@@ -30,3 +30,31 @@ This is about ```center```aligning *any* image or text.
 ```
 <h5 align="center">Heading</h5>
 ```
+<br>
+#### HACK #2
+## A L I G N&nbsp;&nbsp;&nbsp; I M A G E S&nbsp;&nbsp;&nbsp; W I T H&nbsp;&nbsp;&nbsp; T E X T 
+
+This lets you align images towards ```left``` or ```right```.
+
+<br>
+Example:
+<img src="http://placehold.it/150x150"  align="right" vspace=20/>
+<p align="center">The world keeps on turning<br>
+But we’ve stopped both on different sides<br>
+Our hearts keep on loving<br>
+It’s only a matter of space and time<br>
+Till we align<br>
+<em>Align - Nina Nesbitt</em> </p>
+<br>
+
+- Right alignment
+```
+<img src="http://placehold.it/150x150" width=150 align="right" />
+text goes here 
+```
+
+- Left alignment
+```
+<img src="http://placehold.it/150x150" width=150 align="left" />
+text goes here 
+```
