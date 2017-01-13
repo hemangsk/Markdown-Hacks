@@ -1,8 +1,10 @@
-# Markdown-Hacks
-The Best Hacks for GitHub's Markdown.
+<h1 align="center"> Markdown-Hacks</h1>
+<p align="center">Hacks for GitHub's Markdown.</p>
 
-##1 
-### C E N T E R  &nbsp;&nbsp;&nbsp; A L I G N M E N T 
+
+#### HACK #1
+## C E N T E R  &nbsp;&nbsp;&nbsp; A L I G N M E N T 
+
 This is about ```center```aligning *any* image or text.
 
 - **Image**
