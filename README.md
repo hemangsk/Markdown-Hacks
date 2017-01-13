@@ -1,7 +1,6 @@
 <h1 align="center"> Markdown-Hacks</h1>
 <p align="center">Hacks for GitHub's Markdown.</p>
-
-
+<br>
 #### HACK #1
 ## C E N T E R  &nbsp;&nbsp;&nbsp; A L I G N M E N T 
 
