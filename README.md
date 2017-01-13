@@ -58,3 +58,15 @@ text goes here
 <img src="http://placehold.it/150x150" width=150 align="left" />
 text goes here 
 ```
+<br>
+#### HACK #3
+## M O N O S P A C E&nbsp;&nbsp;&nbsp; A N D&nbsp;&nbsp;&nbsp; E N C L O S E D
+- Monospace 
+```
+<samp> print (a+b) </samp>
+```
+- Enclosed (Super smart table hack [Source](https://github.com/shaunlebron/github-markdown-hacks))
+```
+<table><tr><td>Boxed text</td></tr></table>
+```
+
