@@ -1,6 +1,7 @@
 <h1 align="center"> Markdown-Hacks</h1>
 <p align="center">Hacks for GitHub's Markdown.</p>
 <br>
+
 #### HACK #1
 ## C E N T E R  &nbsp;&nbsp;&nbsp; A L I G N M E N T 
 
@@ -31,6 +32,7 @@ This is about ```center```aligning *any* image or text.
 <h5 align="center">Heading</h5>
 ```
 <br>
+
 #### HACK #2
 ## A L I G N&nbsp;&nbsp;&nbsp; I M A G E S&nbsp;&nbsp;&nbsp; W I T H&nbsp;&nbsp;&nbsp; T E X T 
 
@@ -59,6 +61,7 @@ text goes here
 text goes here 
 ```
 <br>
+
 #### HACK #3
 ## M O N O S P A C E&nbsp;&nbsp;&nbsp; A N D&nbsp;&nbsp;&nbsp; E N C L O S E D
 - Monospace 
