@@ -72,6 +72,7 @@ text goes here
 ```
 <table><tr><td>Boxed text</td></tr></table>
 ```
+<br>
 
 #### HACK #4
 ## B E A U T I F U L&nbsp;&nbsp;&nbsp; T I T L E S&nbsp;&nbsp;&nbsp;
