@@ -73,3 +73,10 @@ text goes here
 <table><tr><td>Boxed text</td></tr></table>
 ```
 
+#### HACK #4
+## B E A U T I F U L&nbsp;&nbsp;&nbsp; T I T L E S&nbsp;&nbsp;&nbsp;
++-------------------------------------------------------------+
+
+| L A U G H &nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp; L O T&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; L O V E &nbsp;&nbsp;&nbsp; L O T &nbsp;&nbsp;&nbsp; M O R E - HK &nbsp;|
+
++-------------------------------------------------------------+
